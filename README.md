@@ -5,14 +5,7 @@ In this project I used Pandas and Jupyter Notebook to analyze a pharmaceutical d
 
 ## Summary of Study Results
 
-- Capomulin and Ramicane are similar in stats (see summary stats table)
-- Capomulin and Ramicane had similar amt of timepoints tested (C230, R228)
-- 51% male mice tested, 49% female
-- Capomulin and Ramicane final tumor vol similar
-- Infubinol and Ceftamin final tumor vol much higher
-- Capomulin tumor vol v weight positive correlation (more weight = bigger tumor)
-- r-squared is 0.71
-
+Upon analyzing the data I discovered that the Capomulin treatment regimen and the Ramicane treatment regimen were similar in their summary statistics of their tumor volumes (mean, median, variance, standard deviation, and standard error). Capomulin and Ramicane also had a similar amount of timeoints tested, 230 and 228 respectively. As seen in the boxpot of the final tumor volumes Capomulin and Ramicane had similar final tumor volumes, with Ramicane being slightly smaller overall. 
 
 ## Summary Statistics Table
 Included in this table are the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen.
